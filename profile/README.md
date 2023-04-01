@@ -43,6 +43,17 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 [![license](https://img.shields.io/github/license/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/blob/origin/LICENSE)
 [![contributors](https://img.shields.io/github/contributors/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/graphs/contributors)
 [![Nuget](https://img.shields.io/nuget/dt/Bajun.Network.NET.Extension)](https://www.nuget.org/packages/Bajun.Network.NET.Extension/)  
+
 ## GOALS
 ...
 
+## PROJECTS USING SUBSTRATE GAMING REPOS
+- [If you intend or are using Substrate Gaming Repositories, please add your project here](https://github.com/SubstrateGaming/.github/edit/master/README.md)    
+  
+**In alphabetical order**  
+- [Ajuna Network](https://github.com/ajuna-network/)  
+- [Astar Network](https://github.com/AstarNetwork/) 
+
+## GAMING COMMUNITIES
+[![Discord Banner 1](https://discordapp.com/api/guilds/849331368558198803/widget.png?style=banner2)](https://discord.gg/cE72GYcFgY)  
+[![Discord Banner 1](https://discordapp.com/api/guilds/644182966574252073/widget.png?style=banner2)](https://discord.gg/Z3nC9U4)
