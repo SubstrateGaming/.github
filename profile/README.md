@@ -1,6 +1,5 @@
-# SUBSTRATE GAMING 👋
-
 ![darkfriend77_substrate_gaming](https://user-images.githubusercontent.com/17710198/227788778-3a81b5c3-de81-46f8-b708-d69f85cda495.png)
+# SUBSTRATE GAMING 👋
 
 That's right! The gaming world is constantly evolving, and blockchain technology has the potential to revolutionize the way we play and experience games. With a gaming SDK for substrate (https://github.com/paritytech/substrate/), game developers can easily integrate their games with substrate-based blockchains and take their gaming experience to the next level!
 
@@ -42,8 +41,8 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 [![Nuget](https://img.shields.io/nuget/v/Bajun.Network.NET.Extension)](https://www.nuget.org/packages/Bajun.Network.NET.Extension/)
 [![GitHub issues](https://img.shields.io/github/issues/ajuna-network/Bajun.Network.NET.svg)](https://github.com/ajuna-network/Bajun.Network.NET/issues)
 [![license](https://img.shields.io/github/license/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/blob/origin/LICENSE)
-[![contributors](https://img.shields.io/github/contributors/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/graphs/contributors)  
-
+[![contributors](https://img.shields.io/github/contributors/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/graphs/contributors)
+[![Nuget](https://img.shields.io/nuget/dt/Bajun.Network.NET.Extension)](https://www.nuget.org/packages/Bajun.Network.NET.Extension/)  
 ## GOALS
 ...
 
