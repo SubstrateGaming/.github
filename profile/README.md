@@ -35,14 +35,21 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 
 ## TOOLCHAIN GENERATED SDK
 
-- [Bajun.Network .NET API](https://github.com/ajuna-network/Bajun.Network.NET)  
-  Substrate .NET API Extensions for the Bajun Network  
-![Build](https://github.com/ajuna-network/Bajun.Network.NET/actions/workflows/build.yml/badge.svg)
-[![Nuget](https://img.shields.io/nuget/v/Bajun.Network.NET.Extension)](https://www.nuget.org/packages/Bajun.Network.NET.Extension/)
-[![GitHub issues](https://img.shields.io/github/issues/ajuna-network/Bajun.Network.NET.svg)](https://github.com/ajuna-network/Bajun.Network.NET/issues)
-[![license](https://img.shields.io/github/license/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/blob/origin/LICENSE)
-[![contributors](https://img.shields.io/github/contributors/ajuna-network/Bajun.Network.NET)](https://github.com/ajuna-network/Bajun.Network.NET/graphs/contributors)
-[![Nuget](https://img.shields.io/nuget/dt/Bajun.Network.NET.Extension)](https://www.nuget.org/packages/Bajun.Network.NET.Extension/)  
+- Ajuna Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Ajuna.NET))
+  - Substrate Ajuna .NET API Extension   
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Ajuna.NET.Extension)](https://www.nuget.org/packages/Substrate.Ajuna.NET.Extension/)  
+- Astar Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Astar.NET))
+  - Substrate Astar .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Astar.NET.Extension)](https://www.nuget.org/packages/Substrate.Astar.NET.Extension/)  
+- Bajun Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Bajun.NET))
+  - Substrate Bajun .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Bajun.NET.Extension)](https://www.nuget.org/packages/Substrate.Bajun.NET.Extension/)  
+- Kusama Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Kusama.NET))
+  - Substrate Kusama .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Kusama.NET.Extension)](https://www.nuget.org/packages/Substrate.Kusama.NET.Extension/)  
+- Polkadot Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Polkadot.NET))
+  - Substrate Polkadot .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Polkadot.NET.Extension)](https://www.nuget.org/packages/Substrate.Polkadot.NET.Extension/)  
 
 ## GOALS
 ...
