@@ -50,6 +50,12 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 - Polkadot Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Polkadot.NET))
   - Substrate Polkadot .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Polkadot.NET.Extension)](https://www.nuget.org/packages/Substrate.Polkadot.NET.Extension/)  
+- Statemine Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Statemine.NET))
+  - Substrate Statemine .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Statemine.NET.Extension)](https://www.nuget.org/packages/Substrate.Statemine.NET.Extension/)  
+- Statemint Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Statemint.NET))
+  - Substrate Statemint .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Statemint.NET.Extension)](https://www.nuget.org/packages/Substrate.Statemint.NET.Extension/)  
 
 **Add** or **update** your chain, by following the step-by-step instructions here. ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/blob/main/README.md#add-or-update-package))
 
