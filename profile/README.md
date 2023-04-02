@@ -51,6 +51,8 @@ That's right! The gaming world is constantly evolving, and blockchain technology
   - Substrate Polkadot .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Polkadot.NET.Extension)](https://www.nuget.org/packages/Substrate.Polkadot.NET.Extension/)  
 
+**Add** or **update** your chain, by following the step-by-step instructions here. ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/blob/main/README.md#add-or-update-package))
+
 ## GOALS
 ...
 
