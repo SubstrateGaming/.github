@@ -29,7 +29,16 @@ That's right! The gaming world is constantly evolving, and blockchain technology
       [![Nuget](https://img.shields.io/nuget/v/Substrate.DotNet)](https://www.nuget.org/packages/Substrate.DotNet/)
     - Substrate.DotNet.Template  
       [![Nuget](https://img.shields.io/nuget/v/Substrate.DotNet.Template)](https://www.nuget.org/packages/Substrate.DotNet.Template/)
-    
+
+- [Substrate .NET Wallet](https://github.com/SubstrateGaming/Substrate.NET.Wallet)  
+  Substrate .NET Wallet functionalities  
+![Build](https://github.com/SubstrateGaming/Substrate.NET.Wallet/actions/workflows/build.yml/badge.svg)
+[![Nuget](https://img.shields.io/nuget/v/Substrate.NET.Wallet)](https://www.nuget.org/packages/Substrate.NET.Wallet/)
+[![GitHub issues](https://img.shields.io/github/issues/SubstrateGaming/Substrate.NET.Wallet.svg)](https://github.com/SubstrateGaming/Substrate.NET.Wallet/issues)
+[![license](https://img.shields.io/github/license/SubstrateGaming/Substrate.NET.Wallet)](https://github.com/SubstrateGaming/Substrate.NET.Wallet/blob/origin/LICENSE)
+[![contributors](https://img.shields.io/github/contributors/SubstrateGaming/Substrate.NET.Wallet)](https://github.com/SubstrateGaming/Substrate.NET.Wallet/graphs/contributors) 
+[![Nuget](https://img.shields.io/nuget/dt/Substrate.NET.Wallet)](https://www.nuget.org/packages/Substrate.NET.Wallet/)
+
 - [Substrate Discord Bot](https://github.com/SubstrateGaming/Substrate.DiscordBot)  
   Discord .NET Bot for Substrate Nodes
 
