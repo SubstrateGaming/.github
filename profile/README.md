@@ -81,7 +81,12 @@ That's right! The gaming world is constantly evolving, and blockchain technology
   - Substrate Aventus .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Aventus.NET.Extension)](https://www.nuget.org/packages/Substrate.Aventus.NET.Extension/)
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.Aventus.NET.Extension)  
-![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_aventus.yml/badge.svg)  
+![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_aventus.yml/badge.svg)
+- KILT Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.KILT.NET))  
+  - Substrate KILT .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.KILT.NET.Extension)](https://www.nuget.org/packages/Substrate.KILT.NET.Extension/)
+![Nuget](https://img.shields.io/nuget/dt/Substrate.KILT.NET.Extension)  
+![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_kilt.yml/badge.svg)  
 - Moonbeam Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Moonbeam.NET))  
   - Substrate Moonbeam .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Moonbeam.NET.Extension)](https://www.nuget.org/packages/Substrate.Moonbeam.NET.Extension/)
