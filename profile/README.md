@@ -51,7 +51,7 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.Polkadot.NET.Extension)  
 ![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_polkadot.yml/badge.svg)  
 
-### Polkadot (Parachain)
+### Polkadot (System Parachain)
 - Polkadot Asset Hub .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.PolkadotAssetHub.NET))  
   - Substrate Polkadot AssetHub .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.PolkadotAssetHub.NET.Extension)](https://www.nuget.org/packages/Substrate.PolkadotAssetHub.NET.Extension/)
@@ -66,7 +66,9 @@ That's right! The gaming world is constantly evolving, and blockchain technology
   - Substrate Collectives .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Collectives.NET.Extension)](https://www.nuget.org/packages/Substrate.Collectives.NET.Extension/)
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.Collectives.NET.Extension)  
-![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_collectives.yml/badge.svg) 
+![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_collectives.yml/badge.svg)  
+
+### Polkadot (Parachain)
 - Ajuna Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Ajuna.NET))  
   - Substrate Ajuna .NET API Extension   
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Ajuna.NET.Extension)](https://www.nuget.org/packages/Substrate.Ajuna.NET.Extension/)
@@ -110,7 +112,7 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.Kusama.NET.Extension)  
 ![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_kusama.yml/badge.svg)  
 
-### Kusama (Parachain)
+### Kusama (System Parachain)
 - Kusama AssetHub .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.KusamaAssetHub.NET))  
   - Substrate Kusama AssetHub .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.KusamaAssetHub.NET.Extension)](https://www.nuget.org/packages/Substrate.KusamaAssetHub.NET.Extension/)
@@ -120,7 +122,9 @@ That's right! The gaming world is constantly evolving, and blockchain technology
   - Substrate Kusama BridgeHub .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.KusamaBridgeHub.NET.Extension)](https://www.nuget.org/packages/Substrate.KusamaBridgeHub.NET.Extension/)
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.KusamaBridgeHub.NET.Extension)  
-![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_kusamabridgehub.yml/badge.svg)
+![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_kusamabridgehub.yml/badge.svg)  
+
+### Kusama (Parachain)
 - Bajun Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Bajun.NET))  
   - Substrate Bajun .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Bajun.NET.Extension)](https://www.nuget.org/packages/Substrate.Bajun.NET.Extension/)
