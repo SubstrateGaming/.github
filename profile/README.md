@@ -43,7 +43,7 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 - [Substrate Discord Bot](https://github.com/SubstrateGaming/Substrate.DiscordBot)  
   Discord .NET Bot for Substrate Nodes
 
-- [Substrate Chains .NET API Extensions](https://github.com/SubstrateGaming/Substrate.Chains.NET)
+- [Substrate Chains .NET API Extensions](https://github.com/SubstrateGaming/Substrate.Chains.NET)  
   Substrate Chains .NET API Extensions for Relay-, Para- and Solochains in the Substrate ecosystem
 [![GitHub issues](https://img.shields.io/github/issues/SubstrateGaming/Substrate.Chains.NET.svg)](https://github.com/SubstrateGaming/Substrate.Chains.NET/issues)
 [![license](https://img.shields.io/github/license/SubstrateGaming/Substrate.Chains.NET)](https://github.com/SubstrateGaming/Substrate.Chains.NET/blob/origin/LICENSE)
