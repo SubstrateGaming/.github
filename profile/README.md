@@ -51,6 +51,11 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 
 ## TOOLCHAIN GENERATED SDK
 
+## Substrate NuGet Packages
+[![GitHub issues](https://img.shields.io/github/issues/SubstrateGaming/Substrate.Chains.NET.svg)](https://github.com/SubstrateGaming/Substrate.Chains.NET/issues)
+[![license](https://img.shields.io/github/license/SubstrateGaming/Substrate.Chains.NET)](https://github.com/SubstrateGaming/Substrate.Chains.NET/blob/origin/LICENSE)
+[![contributors](https://img.shields.io/github/contributors/SubstrateGaming/Substrate.Chains.NET)](https://github.com/SubstrateGaming/Substrate.Chains.NET/graphs/contributors)  
+
 ### Polkadot (Relay Chain)
 - Polkadot Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Polkadot.NET))  
   - Substrate Polkadot .NET API Extension  
@@ -109,6 +114,11 @@ That's right! The gaming world is constantly evolving, and blockchain technology
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Unique.NET.Extension)](https://www.nuget.org/packages/Substrate.Unique.NET.Extension/)
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.Unique.NET.Extension)  
 ![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_unique.yml/badge.svg)  
+- Zeitgeist Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Zeitgeist.NET))  
+  - Substrate Zeitgeist .NET API Extension  
+[![Nuget](https://img.shields.io/nuget/v/Substrate.Zeitgeist.NET.Extension)](https://www.nuget.org/packages/Substrate.Zeitgeist.NET.Extension/)
+![Nuget](https://img.shields.io/nuget/dt/Substrate.Zeitgeist.NET.Extension)  
+![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_zeitgeist.yml/badge.svg)  
 
 ### Kusama (Relay Chain)
 - Kusama Network .NET SDK ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/tree/main/Substrate.Kusama.NET))  
@@ -144,7 +154,8 @@ That's right! The gaming world is constantly evolving, and blockchain technology
   - Substrate Enjin Relaychain .NET API Extension  
 [![Nuget](https://img.shields.io/nuget/v/Substrate.Enjin.NET.Extension)](https://www.nuget.org/packages/Substrate.Enjin.NET.Extension/)
 ![Nuget](https://img.shields.io/nuget/dt/Substrate.Enjin.NET.Extension)  
-![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_enjin.yml/badge.svg)  
+![Build](https://github.com/SubstrateGaming/Substrate.Chains.NET/actions/workflows/publish_enjin.yml/badge.svg)
+
 
 **Add** or **update** your chain, by following the step-by-step instructions here. ([Link](https://github.com/SubstrateGaming/Substrate.Chains.NET/blob/main/README.md#add-or-update-package))
 
